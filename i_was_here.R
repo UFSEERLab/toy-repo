@@ -16,6 +16,10 @@ install.packages("palmerpenguins")
 library(palmerpenguins)
 data(package = 'palmerpenguins')
 
+# You can find examples in the package vignettes 
+vignette("examples")
+
+
 # Your turn!
 #############################################################################################
 
