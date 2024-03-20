@@ -27,7 +27,7 @@ Once you've completed tasks 1-3, come back to this toy repo. **Did you know you 
 2. Once on your branch, head to the script [i_was_here.R](https://github.com/UFSEERLab/toy-repo/blob/main/i_was_here.R) and edit it directly from the website.
 3. Commit the changes to your branch.
 4. Now that your branch has your changes, open a pull request ([step 4 in the guide](https://docs.github.com/en/get-started/start-your-journey/hello-world#step-4-open-a-pull-request)).
-5. Review your changes and merge to the main branch.
+5. Review your changes and merge to the main branch. Once changes are merged, you can safely delete your branch.
 
 YAY! you have created your first merge!
 
